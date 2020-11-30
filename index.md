@@ -1,3 +1,5 @@
+![证件照](/timg,jpg)
+
 ## Welcome to GitHub Pages
 
 ### 个人信息
