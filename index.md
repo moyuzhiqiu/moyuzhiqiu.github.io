@@ -1,4 +1,4 @@
-![证件照](/timg,jpg)
+![证件照](/timg.jpg)
 
 ## Welcome to GitHub Pages
 
